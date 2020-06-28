@@ -1,6 +1,7 @@
 # CaliHomes-Info
 Visit the below link to see our project<br>
 <a href = 'https://calihome-info.netlify.app/'>Our project link </a><br>
+<br><br>
 Data Visualization Hack for the DataDayGrind Hackathon
 Inspiration
 
